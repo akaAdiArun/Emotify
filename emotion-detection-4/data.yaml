@@ -1,0 +1,18 @@
+names:
+- anger
+- contempt
+- disgust
+- fear
+- happy
+- sadness
+- surprise
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: emotion-detection-a5i5h
+  url: https://universe.roboflow.com/lyanhvini/emotion-detection-a5i5h/dataset/4
+  version: 4
+  workspace: lyanhvini
+test: C:\Users\adith\OneDrive\Documents\Emotify\emotion-detection-4\test\images
+train: C:\Users\adith\OneDrive\Documents\Emotify\emotion-detection-4\train\images
+val: C:\Users\adith\OneDrive\Documents\Emotify\emotion-detection-4\valid

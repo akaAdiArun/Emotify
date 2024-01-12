@@ -1,0 +1,18 @@
+names:
+- angry
+- disgust
+- fear
+- happy
+- neutral
+- sad
+- surprise
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: human-face-expression
+  url: https://universe.roboflow.com/human-face-expression-recognition/human-face-expression/dataset/20
+  version: 20
+  workspace: human-face-expression-recognition
+test: C:\Users\adith\OneDrive\Documents\Emotify\Human-Face-Expression-20\test\images
+train: C:\Users\adith\OneDrive\Documents\Emotify\Human-Face-Expression-20\train\images
+val: C:\Users\adith\OneDrive\Documents\Emotify\Human-Face-Expression-20\valid\images
